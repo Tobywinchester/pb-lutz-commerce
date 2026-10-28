@@ -9,6 +9,9 @@ Two routes only: option3 LutzPlus / PerfectlyBasicsAdvanced; option4 bothAdvance
 - No retail-rate saving is assigned to Plus. At the default assumptions the Plus route has an incremental fee premium, which must be justified by genuine business value.
 - ShopifyPayments online in both; source AOV/mix and PayPal estimate retained. No automatic conversion uplift.
 
+## First-year subscription credit
+A one-off EUR6,300 IB credit is deducted from Lutz Plus subscription/platform fees in year1 only. It does not reduce PB Advanced, POS subscriptions or online/in-store processing. First-year and ongoing totals are shown separately; ongoing costs have no repeated credit. Monthly figures are annual equivalents, not a promised invoice-credit schedule.
+
 ## Plus value and evidence
 Current public sources distinguish pre-payment checkout extensions, custom-app Functions, GraphQLAPI capacity, priority support, Launchpad/custom Flow tasks and CombinedListings from Advanced baselines. Flow, ShopPay and professionalPOS workflows are not generally Plus-only.
 
