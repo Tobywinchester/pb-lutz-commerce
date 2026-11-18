@@ -28,3 +28,11 @@ The review-draft/illustrative labels are intentional: this is not a binding all-
 Plus capability and merchant implementation stories retain their Advanced baselines, actual prior-plan classifications and wider-project confounders. Reported case outcomes are not a forecast for Lutz or attributed specifically to Rebuy/AfterSell.
 
 The page is self-contained. Calculator changes stay in the browser page. Monthly figures are annual equivalents, not promised monthly invoices. Saved HTML and CSV preserve the chosen assumptions. Anyone with the URL or a copy can view the contents; robots noindex is not access control. Brand/case copyrights remain with their owners.
+
+
+## Updated online payment mix
+For **both Lutz and PerfectlyBasics**, the supplied customer split is modelled as 70% iDEAL, 13% Amex and 17% other domestic/EEA cards, using each brand’s historic AOV across methods. This replaces—not supplements—the former Klarna/PayPal/Bancontact mix.
+
+Amex is priced explicitly at the existing quoted online rates: Advanced 2.6% + EUR0.25; Plus 2.5% + EUR0.25. Other cards use Advanced 1.6% + EUR0.25 or Plus 1.4% + EUR0.25. iDEAL is EUR0.29 on Advanced and EUR0.15 on Plus. These online assumptions do not change the separate illustrative retail card-value mix or per-card-order charges.
+
+This update adopts the newer live retail review draft, rather than the stale flat-0.8% local version. It preserves the review banner, plan-specific retail rates and EUR0.10/card-paid-order charge, retail inputs, first-three-bill Plus credit timing and existing app-offer wording. Inputs remain in the browser. No email was sent.
